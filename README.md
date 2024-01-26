@@ -25,5 +25,9 @@
          unzipped Tomcat)</br>
       - Make sure to stop the Apache service when you first installed it, and run the Tomcat</br>
          v10.1 Server from Eclipse</br>
-   
+   4. Running the project
+      - Open the project down arrow key
+      - source -> main -> webapp -> main.
+      - right click main -> Run As -> Run On Server
+      - Homepage should open. 
 
