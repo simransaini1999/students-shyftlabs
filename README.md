@@ -12,18 +12,18 @@
 3. This version of code will need to run via tomcat server which needs to be installed on your machine.
 
    For Windows, you can use the 32-bit/64-bit Windows Service Installer</br>
-   For Unix-based,
-      a. Download Tomcat 10 Core tar.gz file
-      b. Open Terminal and unarchive file
-      c. sudo mkdir -p /usr/local
-      d. sudo mv ~/Downloads/apache-tomcat-10.1.8 /usr/local
-      e. Run startup.sh script Tomcat should be running on http://localhost:8080
-      f. Run shutdown.sh to stop Tomcat
+   For Unix-based,</br>
+      a. Download Tomcat 10 Core tar.gz file</br>
+      b. Open Terminal and unarchive file</br>
+      c. sudo mkdir -p /usr/local</br>
+      d. sudo mv ~/Downloads/apache-tomcat-10.1.8 /usr/local</br>
+      e. Run startup.sh script Tomcat should be running on http://localhost:8080</br>
+      f. Run shutdown.sh to stop Tomcat</br>
 
-   Configure Eclipse with Tomcat. In Java EE perspective, explore the Servers tab;
-      a. Create a Web server, select Apache Tomcat 10.0 (point to the directory where you
-         unzipped Tomcat)
-      b. Make sure to stop the Apache service when you first installed it, and run the Tomcat
-         v10.1 Server from Eclipse
+   Configure Eclipse with Tomcat. In Java EE perspective, explore the Servers tab;</br>
+      a. Create a Web server, select Apache Tomcat 10.0 (point to the directory where you</br>
+         unzipped Tomcat)</br>
+      b. Make sure to stop the Apache service when you first installed it, and run the Tomcat</br>
+         v10.1 Server from Eclipse</br>
    
 
