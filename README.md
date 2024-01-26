@@ -11,7 +11,7 @@
         - Need to get Github to generate a personal access token
 3. This version of code will need to run via tomcat server which needs to be installed on your machine.
 
-   For Windows, you can use the 32-bit/64-bit Windows Service Installer
+   For Windows, you can use the 32-bit/64-bit Windows Service Installer</br>
    For Unix-based,
       a. Download Tomcat 10 Core tar.gz file
       b. Open Terminal and unarchive file
