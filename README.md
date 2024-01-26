@@ -31,5 +31,5 @@
       - Open the project down arrow key
       - source -> main -> webapp -> main.
       - right click main -> Run As -> Run On Server
-      - Homepage should open. 
+      - Homepage will open. 
 
