@@ -32,7 +32,7 @@
 				<th>ID</th>
 				<th>First Name</th>
 				<th>Last Name</th>
-				<th>Date of Birth</th>
+				<th>Age</th>
 			</tr>
 		</thead>
 		<tbody>
@@ -53,7 +53,8 @@
 			}
 
 			if (age < 10) {
-				$("#confirmationMessage").text("Age must be more than 10 years");
+				alert("Hello! I am an alert box!!");
+				window.location.reload()
 				return;
 			}
 
