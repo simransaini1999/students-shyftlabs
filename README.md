@@ -1,5 +1,5 @@
 # Video Demo 
-[Student Information Project](https://youtu.be/QLwsmuvx7UY)
+[Student Information Project Demo](https://youtu.be/QLwsmuvx7UY)
 # Installation Instructions
 
 1. Install [Eclipse](https://www.eclipse.org/downloads/packages/installer)
